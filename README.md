@@ -151,3 +151,9 @@ Try again on a different connection.
 - Downloading a gallery is between you and whoever shared it with you. This
   tool only automates what your browser already does with a link you were
   given.
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE). Free to use, change and share.
