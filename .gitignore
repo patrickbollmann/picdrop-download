@@ -1,0 +1,20 @@
+# downloaded galleries
+output/
+*.part
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# editors / os
+.DS_Store
+.idea/
+.vscode/
+
+# local secrets (gallery passwords etc.)
+.env
+*.local
